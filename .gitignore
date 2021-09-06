@@ -1,0 +1,14 @@
+# local
+.terraform/*
+
+# state
+*.tfstate
+*.tfstate.*
+*.exe
+
+# variables files
+
+*.tfvars
+mykey
+mykey.ppk
+mykey.pub
