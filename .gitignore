@@ -1,5 +1,7 @@
 # local
 .terraform/*
+.ssh
+*.ppk
 
 # state
 *.tfstate
